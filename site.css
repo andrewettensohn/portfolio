@@ -64,6 +64,10 @@ body {
               box-shadow: 5px 10px 18px #888888;
               width: 60%;
             }
+
+	.d-none {
+	display: none;
+	}
             
             a.navlink:link {color:white ; text-decoration:none;}
             a.navlink:visited{ color: white;text-decoration:none;}
